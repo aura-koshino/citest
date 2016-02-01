@@ -4,5 +4,10 @@ public class Test {
 
 	public Test() {
 	}
+	
+	
+	public boolean method(){
+		return true;
+	}
 
 }
